@@ -7,7 +7,7 @@ from src.calculator import (
 
 def test_Summation():
     """
-    Test Summation function
+    Testing Summation function
     """
     assert Summation(2, 10) == 12
     assert Summation(3, 5) == 8
@@ -15,7 +15,7 @@ def test_Summation():
 
 def test_Subtraction():
     """
-    Test Subtraction function
+    Testing Subtraction function
     """
     assert Subtraction(8, 2) == 6
     assert Subtraction(7, 5) == 2
@@ -23,7 +23,7 @@ def test_Subtraction():
 
 def test_Multiplication():
     """
-    Test Multiplication function
+    Testing Multiplication function
     """
     assert Multiplication(2, 2) == 4
     assert Multiplication(7, 2) == 14
@@ -31,7 +31,7 @@ def test_Multiplication():
 
 def test_Division():
     """
-    Test Division function
+    Testing Division function
     """
     assert Division(5, 5) == 1
     assert Division(70, 10) == 7
