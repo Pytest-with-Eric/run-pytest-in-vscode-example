@@ -1,8 +1,8 @@
-# Example code for the article **How to run pytest in VScode**
+# Example code for the article **How to Run Pytest in VScode**
 
 ## Task
 
-This repo contains the sample code for the article [How to run pytest in VScode]()
+This repo contains the sample code for the article [How To Run Pytest In VS Code (Easy To Follow Step-By-Step Tutorial)](https://pytest-with-eric.com/introduction/how-to-run-pytest-in-vscode/)
 
 ## Code
 The source code is a simple Python script that calculates the area of various shapes and can be found at `src/calculator.py`. 
